@@ -1,0 +1,31 @@
+# Pub ignore file for liquidify
+
+# IDE & Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Build artifacts & caches
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.lock
+
+# Temporary & Log files
+*.log
+*.tmp
+.tempmediaStorage/
+.user_uploaded/

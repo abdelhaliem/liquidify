@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - liquidify (0.1.0):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - liquidify (from `.symlinks/plugins/liquidify/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  liquidify:
+    :path: ".symlinks/plugins/liquidify/ios"
+
+SPEC CHECKSUMS:
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  liquidify: 848edbaab583bfbb23be8ddbd4585ce190ed9823
+
+PODFILE CHECKSUM: 925325d20e05a8bbfce919e0da669633c652835f
+
+COCOAPODS: 1.16.2
